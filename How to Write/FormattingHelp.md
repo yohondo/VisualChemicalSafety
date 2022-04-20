@@ -4,13 +4,17 @@ The guidelines platform uses Markdown for formatting. Here are the basics. See t
 
 Bold
 
-`**Carefully** crack the eggs.`
+`Give a **maximum of two** repeat boluses`
+
+- Give a **maximum of two** repeat boluses
 
 ---
 
-Emphasis
+Italics
 
-`Whisk the eggs _vigorously_.`
+`_Briefings held ICC 5th floor_`
+
+- _Briefings held ICC 5th floor_
 
 ---
 
