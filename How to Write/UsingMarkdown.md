@@ -11,6 +11,29 @@ Markdown is a simple language used to add formatting to text. The guidelines pla
 
 ## Special Characters
 
+You can use all the special characters that modern devices can display. This could be emojis like this flag, 🇬🇧, but is more often used in clinical guidelines for things like ℃ and O₂.
+
+For convenience, here are a range of common special characters you can copy and paste.
+
+| Example    | Description                                     |
+| ---------- | ----------------------------------------------- |
+| O₂         |                                                 |
+| ℃          | Degrees C                                       |
+| °          | Degree                                          |
+| 𝗑10⁹       | Multiplication '𝗑', not normal 'x'              |
+| →          | Right arrow                                     |
+| ≥          | Greater than or equal                           |
+| ≤          | Less than or equal                              |
+| ±          | Plus/minus                                      |
+| ½          | Half                                            |
+| ¼          | One quarter                                     |
+| ¾          | Three quarters                                  |
+| ⁰¹²³⁴⁵⁶⁷⁸⁹ | Superscript numbers                             |
+| ⁺⁻⁼⁽⁾      | Superscript symbols                             |
+| ₀₁₂₃₄₅₆₇₈₉ | Subscript numbers                               |
+| ₊₋₌₍₎      | Subscript symbols                               |
+| •          | Bullet - used when putting lists in table cells |
+
 ## Headings
 
 ```
