@@ -213,6 +213,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 >> Before: Original large tables [target:ExampleLargeTable.pdf]
 <<
 ## Medications and side effects for treatment of ICU delirium
+
 >> Risperidone [Atypical antipsychotic]
 
 # Risperidone [Properties and side effects]
