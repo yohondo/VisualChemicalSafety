@@ -1,3 +1,5 @@
+# Formatting help
+
 The guidelines platform uses Markdown for formatting. Here are the basics. See the [complete syntax](https://guidelines.fhft.nhs.uk/AuthoringHelp/UsingMarkdown).
 
 ---
