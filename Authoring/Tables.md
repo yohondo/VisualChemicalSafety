@@ -1,4 +1,4 @@
-# Tables [Making tables that look good and display well on phones and computers] 
+# Tables [Making tables that look good and display well on phones and computers]
 
 We'll be using [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) for simple tables, and [HTML Tables Generator](https://www.tablesgenerator.com/html_tables) for more complex tables.
 
@@ -64,9 +64,7 @@ Put a blank row at the top of your table.
 |-----|-----|
 | One | Two |
 | 1   | 2   |
-
 <<
-
 ## Advanced Tables
 
 ### Merged Cells
@@ -140,9 +138,7 @@ In the HTML for your table find the cells that you want to turn into headings. W
 # Extra Headings Example
 
 <table><tr><th rowspan="2">Patient’s actual body weight (kg)</th><th colspan="13">Dose in microgram / kilogram / hr<br> (mcg/kg/hr)</th></tr><tr><th>0.2</th><th>0.3</th><th>0.4</th><th>0.5</th><th>0.6</th><th>0.7</th><th>0.8</th><th>0.9</th><th>1.0</th><th>1.1</th><th>1.2</th><th>1.3</th><th>1.4</th></tr><tr><th>50</th><td>1.3</td><td>1.9</td><td>2.5</td><td>3.1</td><td>3.8</td><td>4.4</td><td>5.0</td><td>5.6</td><td>6.3</td><td>6.9</td><td>7.5</td><td>8.1</td><td>8.8</td></tr><tr><th>55</th><td>1.4</td><td>2.1</td><td>2.8</td><td>3.4</td><td>4.1</td><td>4.8</td><td>5.5</td><td>6.2</td><td>6.9</td><td>7.6</td><td>8.3</td><td>8.9</td><td>9.6</td></tr><tr><th>60</th><td>1.5</td><td>2.3</td><td>3.0</td><td>3.8</td><td>4.5</td><td>5.3</td><td>6.0</td><td>6.8</td><td>7.5</td><td>8.3</td><td>9.0</td><td>9.8</td><td>10.5</td></tr><tr><th>65</th><td>1.6</td><td>2.4</td><td>3.3</td><td>4.1</td><td>4.9</td><td>5.7</td><td>6.5</td><td>7.3</td><td>8.1</td><td>8.9</td><td>9.8</td><td>10.6</td><td>11.4</td></tr><tr><th>70</th><td>1.8</td><td>2.6</td><td>3.5</td><td>4.4</td><td>5.3</td><td>6.1</td><td>7.0</td><td>7.9</td><td>8.8</td><td>9.6</td><td>10.5</td><td>11.4</td><td>12.3</td></tr><tr><th>75</th><td>1.9</td><td>2.8</td><td>3.8</td><td>4.7</td><td>5.6</td><td>6.6</td><td>7.5</td><td>8.4</td><td>9.4</td><td>10.3</td><td>11.3</td><td>12.2</td><td>13.1</td></tr><tr><th>80</th><td>2.0</td><td>3.0</td><td>4.0</td><td>5.0</td><td>6.0</td><td>7.0</td><td>8.0</td><td>9.0</td><td>10.0</td><td>11.0</td><td>12.0</td><td>13.0</td><td>14.0</td></tr><tr><th>85</th><td>2.1</td><td>3.2</td><td>4.3</td><td>5.3</td><td>6.4</td><td>7.4</td><td>8.5</td><td>9.6</td><td>10.6</td><td>11.7</td><td>12.8</td><td>13.8</td><td>14.9</td></tr><tr><th>90</th><td>2.3</td><td>3.4</td><td>4.5</td><td>5.6</td><td>6.8</td><td>7.9</td><td>9.0</td><td>10.1</td><td>11.3</td><td>12.4</td><td>13.5</td><td>14.6</td><td>15.8</td></tr><tr><th>95</th><td>2.4</td><td>3.6</td><td>4.8</td><td>5.9</td><td>7.1</td><td>8.3</td><td>9.5</td><td>10.7</td><td>11.9</td><td>13.1</td><td>14.3</td><td>15.4</td><td>16.6</td></tr><tr><th>100</th><td>2.5</td><td>3.8</td><td>5.0</td><td>6.3</td><td>7.5</td><td>8.8</td><td>10.0</td><td>11.3</td><td>12.5</td><td>13.8</td><td>15.0</td><td>16.3</td><td>17.5</td></tr><tr><th>105</th><td>2.6</td><td>3.9</td><td>5.3</td><td>6.6</td><td>7.9</td><td>9.2</td><td>10.5</td><td>11.8</td><td>13.1</td><td>14.4</td><td>15.8</td><td>17.1</td><td>18.4</td></tr><tr><th>110</th><td>2.8</td><td>4.1</td><td>5.5</td><td>6.9</td><td>8.3</td><td>9.6</td><td>11.0</td><td>12.4</td><td>13.8</td><td>15.1</td><td>16.5</td><td>17.9</td><td>19.3</td></tr><tr><th>115</th><td>2.9</td><td>4.3</td><td>5.8</td><td>7.2</td><td>8.6</td><td>10.1</td><td>11.5</td><td>12.9</td><td>14.4</td><td>15.8</td><td>17.3</td><td>18.7</td><td>20.1</td></tr><tr><th>120</th><td>3.0</td><td>4.5</td><td>6.0</td><td>7.5</td><td>9.0</td><td>10.5</td><td>12.0</td><td>13.5</td><td>15.0</td><td>16.5</td><td>18.0</td><td>19.5</td><td>21.0</td></tr></table>
-
 <<
-
 ## Background colours and other formatting
 
 Leave 'Do not generate CSS' unticked (so it does generate CSS) and you have full control and do anything that [HTML Tables Generator](https://www.tablesgenerator.com/html_tables) allows.
@@ -184,9 +180,7 @@ To get the same colours as above paste these values into the colour picker on ta
 * Red: #ff5b5b
 
 <img src="Tables-media/ColourPicker.png" style="width:347px;" />
-
 <<
-
 ## Scrollable Tables
 
 If a table ends up too wide to fit on a phone screen then the extra will be cut off. The table can be made scrollable so the reader can scroll to see the extra parts of the table.
@@ -194,6 +188,7 @@ If a table ends up too wide to fit on a phone screen then the extra will be cut 
 This seems to be a requirement for iPhones only. Android phones make wide tables scrollable by default.
 
 >> How to make a table scrollable
+
 # Scrollable Tables
 
 Wrap your HTML table with `<div style="overflow-x:auto;”>` on the line before, and `</div>` on the line after.
@@ -207,7 +202,6 @@ This been done for the following table which too wide to be viewed on most phone
 </div>
 <<
 <<
-
 ## Handling tables that are too big
 
 A table that takes up most of the width of an A4 page won't display well on a phone. The easiest option, and often the best option, is to break it up into smaller tables. If the original table has multiple heading rows with categories like: Under 12, Over 12, Adults. Then split the table into three for 'Under 12s', 'Over 12s' and 'Adults'.
@@ -242,9 +236,9 @@ See the original tables below, which covered two full A4 pages, then the result 
 |**Sedation**|• Occur in high dose|
 |**Seizure risk**|• Risk unclear<br>• Caution|
 |**Comments:**|• Avoid in acute porphyria<br>• Caution: Parkinson disease, hyperglycaemia<br>• Licensed for behavioural and psychological symptoms of dementia (BPSD) short term treatment up to 6 weeks|
-
 <<
 >> Olanzapine [Atypical antipsychotic]
+
 # Olanzapine [Properties and side effects]
 
 • Atypical antipsychotic
@@ -266,9 +260,9 @@ See the original tables below, which covered two full A4 pages, then the result 
 |**Sedation**|• Oral: Moderate|
 |**Seizure risk**|• Rare cases reported with other seizures risks|
 |**Comments:**|• Avoid in acute MI, unstable angina, bradycardia<br>• Caution: Parkinson disease, hypotension, hyperglycaemia<br>• When use with benzodiazepines have significant synergistic sedative and cardio- respiratory suppressants effects|
-
 <<
 >> Quetiapine [Atypical antipsychotic]
+
 # Quetiapine [Properties and side effects]
 
 • Atypical antipsychotic
@@ -290,9 +284,9 @@ See the original tables below, which covered two full A4 pages, then the result 
 |**Sedation**|• Mild to moderate|
 |**Seizure risk**|• Low risk<br>• Caution|
 |**Comments:**|• Avoid concomitant adminstration HIV protease inhibitor, erythromycin<br>• Caution: Parkinson disease, hyperglycaemia, tacycardia, hypertension, elevated plasma triglyceridea and cholesterol concentrations|
-
 <<
 >> Haloperidol [Typical antipsychotic]
+
 # Haloperidol [Properties and side effects]
 
 • Typical antipsychotic
@@ -315,7 +309,6 @@ See the original tables below, which covered two full A4 pages, then the result 
 |**Sedation**|• Mild|
 |**Seizure risk**|• Seizure can be triggered by haloperidol<br>• Caution: epilepsy, alcohol withdrawal, brain injury|
 |**Comments:**|• IV/IM dose equivalent to 40% of oral dose<br>• Caution: Parkinson disease<br>• Metabolites may accumulate in renal/hepatic impairment|
-
 <<
 
 <<
@@ -356,4 +349,4 @@ To keep two words together replace the space character with '`&nbsp;`' (non-brea
 * '`Right Aligned`' becomes
 * '`Right&nbsp;Aligned`'
 
-This still displays as a space character but the words either side stay together. 
+This still displays as a space character but the words either side stay together.
