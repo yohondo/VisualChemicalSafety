@@ -311,9 +311,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 |**Seizure risk**|• Seizure can be triggered by haloperidol<br>• Caution: epilepsy, alcohol withdrawal, brain injury|
 |**Comments:**|• IV/IM dose equivalent to 40% of oral dose<br>• Caution: Parkinson disease<br>• Metabolites may accumulate in renal/hepatic impairment|
 <<
-
 <<
-
 ## Hacks
 
 These apply to both the simple Markdown tables and the advanced HTML tables.
