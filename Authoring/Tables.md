@@ -314,8 +314,6 @@ See the original tables below, which covered two full A4 pages, then the result 
 
 <<
 
-<<
-
 ## Hacks
 
 These apply to both the simple Markdown tables and the advanced HTML tables.
