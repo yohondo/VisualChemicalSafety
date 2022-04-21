@@ -341,9 +341,9 @@ Make the text in the leftmost column bold.
 
 ### Preventing line breaks between words
 
-To keep two words together replace the space character with '`&nbsp;`' (non-breaking space).
+To keep two words together replace the space character with '&amp;nbsp;' (non-breaking space).
 
-* '`Right Aligned`' becomes
-* '`Right&nbsp;Aligned`'
+* 'Right Aligned' becomes
+* 'Right&amp;nbsp;Aligned'
 
 This still displays as a space character but the words either side stay together.
