@@ -36,14 +36,12 @@ For convenience, here are a range of common special characters you can copy and 
 
 ## Headings
 
-```
-# Page Title (Heading 1)
+`# Page Title (Heading 1)`
 
-## Section Heading (Heading 2)
+`## Section Heading (Heading 2)`
 
-### Sub-Heading (Heading 3)
+`### Sub-Heading (Heading 3)`
 
-#### Heading 4
-```
+`#### Heading 4`
 
 In the visual editor you can only use heading 3 and 4, as 1 and 2 are already being used with the page title and section heading.
