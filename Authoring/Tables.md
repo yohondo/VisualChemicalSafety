@@ -210,7 +210,7 @@ A table that takes up most of the width of an A4 page won't display well on a ph
 
 See the original tables below, which covered two full A4 pages, then the result of splitting into smaller tables.
 
->> Before: Original large tables [target:ExampleLargeTable.pdf]
+>> Before: Original large tables [target:Tables-media/ExampleLargeTable.pdf]
 <<
 ## Medications and side effects for treatment of ICU delirium
 
@@ -221,6 +221,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 • Atypical antipsychotic
 <br>• Unlicensed indication for treatment of delirium
 
+|  |  |
 |--|--|
 |**Oral/NG route**|500 micrograms BD (up to max 4mg in 24 hours)|
 |**Oral preparation for delirium**|Tablets Orodispersible tablets<br>Liquid 1mg/ml (100ml)|
@@ -230,6 +231,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 
 ### Side Effects
 
+|  |  |
 |--|--|
 |**Renal impairment / Elderly over 65 years old:**|• High risk<br>• Starting oral/ NG dose 250 micrograms BD in severe renal impairment.<br>• Max .1mg BD in 24 hours|
 |**Hepatic impairment:**|• Moderate risk<br>• Start with low dose|
@@ -245,6 +247,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 • Atypical antipsychotic
 <br>• Unlicensed indication for treatment of delirium
 
+|  |  |
 |--|--|
 |**Oral/NG route**|2.5 to 5mg daily (Usual max 20mg by oral/NG in 24 hours)|
 |**Oral preparation for delirium**|Tablets Orodispersible tablets|
@@ -254,6 +257,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 
 ### Side Effects
 
+|  |  |
 |--|--|
 |**Renal impairment / Elderly over 65 years old:**|• Moderate risk<br>• Starting oral/NG dose 2.5mg daily|
 |**Hepatic impairment:**|• Moderate risk<br>• Start with low dose|
@@ -269,6 +273,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 • Atypical antipsychotic
 <br>• Unlicensed indication for treatment of delirium
 
+|  |  |
 |--|--|
 |**Oral/NG route**|12.5 to 50mg BD<br>Crush tablets for NG route|
 |**Oral preparation for delirium**|Tablets|
@@ -278,6 +283,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 
 ### Side Effects
 
+|  |  |
 |--|--|
 |**Renal impairment / Elderly over 65 years old:**|• Moderate risk<br>• Starting oral/NG dose 12.5mg BD|
 |**Hepatic impairment:**|• Moderate risk<br>• Start with low dose|
@@ -293,6 +299,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 • Typical antipsychotic
 <br>• Unlicensed indication for treatment of delirium
 
+|  |  |
 |--|--|
 |**Oral/NG route**|500 micrograms to 1mg BD with additional doses every 4 hours as needed (max 18mg in 24 hours)|
 |**Oral preparation for delirium**|• Tablets<br>• Liquid 2mg/ml (100ml)|
@@ -303,6 +310,7 @@ See the original tables below, which covered two full A4 pages, then the result 
 
 ### Side Effects
 
+|  |  |
 |--|--|
 |**Renal impairment / Elderly over 65 years old:**|• Moderate risk<br>• Starting oral/NG/IV dose 500 micrograms BD in severe renal impairment because of increased cerebral sensitivity|
 |**Hepatic impairment:**|• Lower risk|
