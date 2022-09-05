@@ -15,9 +15,9 @@
 
 ## Skin Contact
 
-Hazard: Irritation, minor
-Likelihood: Medium
-Protection: Nitrile Gloves - located in maintenance crib
+* Hazard: Irritation, minor
+* Likelihood: Medium
+* Protection: Nitrile Gloves - located in maintenance crib
 
 ## Eat/drink (ingestion)
 
