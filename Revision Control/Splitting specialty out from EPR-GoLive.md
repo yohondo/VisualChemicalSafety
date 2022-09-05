@@ -24,10 +24,10 @@ Then to publish to staging:
 ![[2 - New branch.png]]
 ![[2-1 Create new branch.png]]
 
-## 3. Copy the files back
+### 3. Copy the files back
 ![[Cardiology.png]]
 
-## 4. Commit and Publish
+### 4. Commit and Publish
 
 ![[3 - Commit.png]]![[3-1 Publish.png]]
 
