@@ -15,19 +15,19 @@ Then to publish to staging:
 
 >> Create a branch with just the Cardiology files in them
 
-### 1. Create a copy of the files to split out
+## 1. Create a copy of the files to split out
 * Check you are on the EPR-GoLive branch
 ![[1 - EPR-GoLive Branch.png]]
 * Copy files to a temporary location
 
-### 2. Switch to main and create a new branch
+## 2. Switch to main and create a new branch
 ![[2 - New branch.png]]
 ![[2-1 Create new branch.png]]
 
-### 3. Copy the files back
+## 3. Copy the files back
 ![[Cardiology.png]]
 
-### 4. Commit and Publish
+## 4. Commit and Publish
 
 ![[3 - Commit.png]]![[3-1 Publish.png]]
 <<
