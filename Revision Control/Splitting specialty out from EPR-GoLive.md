@@ -13,7 +13,7 @@ Then to publish to staging:
 2.  Make sure this is from the Cardiology branch to Staging. By default it is to 'main'
 3.  Create, then merge, don't delete the Neonates branch just yet
 
-## Create a branch with just the Cardiology files in them
+>> Create a branch with just the Cardiology files in them
 
 ### 1. Create a copy of the files to split out
 * Check you are on the EPR-GoLive branch
@@ -30,8 +30,8 @@ Then to publish to staging:
 ### 4. Commit and Publish
 
 ![[3 - Commit.png]]![[3-1 Publish.png]]
-
-## Publish to staging
+<<
+>> Publish to staging
 
 In GitHub Desktop 'Publish branch' then 'Create Pull Request'
 
@@ -44,3 +44,4 @@ You'll be taken to the GitHub website. Change the destination from 'main' to 'st
 
 Merge the pull request and a few minutes later the change will be live on https://guidelines.fhft.nhs.uk/staging
 ![[Merge pull request.png]]
+<<
