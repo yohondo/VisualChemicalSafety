@@ -9,9 +9,9 @@
 
 ## Breathing Inhalation
 
-Hazard: Medium - respiratary sensitiser (asthma like reaction)
-Likelihood: Selective
-Protection: Have good ventilation, possibly with mechanical assistance (fan)
+* Hazard: Medium - respiratary sensitiser (asthma like reaction)
+* Likelihood: Selective
+* Protection: Have good ventilation, possibly with mechanical assistance (fan)
 
 ## Skin Contact
 
