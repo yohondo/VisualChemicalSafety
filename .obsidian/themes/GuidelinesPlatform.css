@@ -1,0 +1,141 @@
+:root {
+  /*----------------------------------------------------------------
+  COLORS
+  ----------------------------------------------------------------*/
+
+  --base-h: 212; /* Base hue */
+  --base-s: 15%; /* Base saturation */
+  --base-d: 13%; /* Base lightness Dark Mode  - 0 is black */
+  --base-l: 97%; /* Base lightness Light Mode  - 100 is white */
+  --accent-h: 215; /* Accent hue */
+  --accent-s: 75%; /* Accent saturation */
+  --accent-d: 70%; /* Accent lightness Dark Mode */
+  --accent-l: 60%; /* Accent lightness Light Mode */
+
+  --blue: #2e80f2;
+  --pink: #ff82b2;
+  --green: #3eb4bf;
+  --yellow: #e5b567;
+  --orange: #e87d3e;
+  --red: #e83e3e;
+  --purple: #9e86c8;
+
+  --light-yellow-highlighter: #fff3a3a6;
+  --dark-yellow-highlighter: #dbce7e77;
+  --pink-highlighter: #ffb8eba6;
+  --red-highlighter: #db3e606e;
+  --blue-highlighter: #adccffa6;
+  --dark-blue-highlighter: #adccff5b;
+  --green-highlighter: #bbfabba6;
+  --purple-highlighter: #d2b3ffa6;
+  --orange-highlighter: #ffb86ca6;
+  --grey-highlighter: #cacfd9a6;
+
+  /* Colors, sizes, weights, padding */
+
+  --h1-color: var(--text-normal);
+  --h2-color: var(--blue);
+  --h3-color: var(--blue);
+  --h4-color: var(--yellow);
+  --h5-color: var(--red);
+  --h6-color: var(--text-muted);
+
+  --strong-color: var(--pink);
+  --em-color: var(--pink);
+
+  --font-normal: 16px;
+  --font-small: 13px;
+  --font-smaller: 11px;
+  --font-smallest: 10px;
+
+  --font-settings: 15px;
+  --font-settings-small: 13px;
+  --font-inputs: 14px;
+
+  --h1: 1.5em;
+  --h2: 1.3em;
+  --h3: 1.1em;
+  --h4: 0.9em;
+  --h5: 0.85em;
+  --h6: 0.85em;
+
+  --h1-weight: 700;
+  --h2-weight: 700;
+  --h3-weight: 600;
+  --h4-weight: 500;
+  --h5-weight: 500;
+  --h6-weight: 400;
+
+  --normal-weight: 400; /* Switch to 300 if you want thinner default text */
+  --bold-weight: 700; /* Switch to 700 if you want thicker bold text */
+  --icon-muted: 0.4;
+  --line-width: 45rem; /* Maximum characters per line */
+  --line-height: 1.5;
+  --border-width: 1px;
+  --border-width-alt: 1px;
+  --max-width: 90%; /* Amount of padding around the text, use 90% for narrower padding */
+  --nested-padding: 3.5%; /* Amount of padding for quotes and transclusions */
+  --input-height: 36px;
+  --list-indent: 2em;
+
+  --font-todoist-title-size: 1em;
+  --font-todoist-metadata-size: small;
+
+  --cursor: default;
+  --h4-transform: uppercase;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.markdown-rendered table,
+.markdown-rendered th,
+.markdown-rendered td {
+  font-size: 1rem;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+  padding: 3px 5px;
+}
+
+.markdown-rendered th {
+  font-weight: bold;
+  background-color: #3a69ae;
+  color: #ffffff;
+}
+
+tr:nth-child(odd) {
+  background-color: #e2e7f0;
+}
+
+tr:nth-child(even) {
+  background-color: #c3cbe2;
+}
+
+.HyperMD-header {
+  background-color: #198f77;
+  color: white;
+  text-align: center;
+  padding: 3rem;
+}
+
+.HyperMD-header-2 {
+  background-color: #198f77;
+  color: white;
+  padding: 3rem;
+  text-align: left;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.HyperMD-header-3 {
+  background-color: #4b76ae;
+  color: white;
+  text-align: center;
+  padding: 3pt;
+}
+
+.c1 .cm-line {
+  padding: inherit;
+}

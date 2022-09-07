@@ -15,7 +15,14 @@ Then to publish to staging:
 2.  Make sure this is from the Cardiology branch to Staging. By default it is to 'main'
 3.  Create, then merge, don't delete the Neonates branch just yet
 
->> Create a branch with just the Cardiology files in them
+### Heading 3
+| A | B | C|
+|--|--|--|
+|1 | 2| 3|
+|4|5|6|
+
+
+!>> Create a branch with just the Cardiology files in them
 
 ## 1. Create a copy of the files to split out
 
@@ -36,8 +43,8 @@ Then to publish to staging:
 ## 4. Commit and Publish
 
 ![[images/3 - Commit.png]]![[images/3-1 Publish.png]]
-<<
->> Publish to staging
+!<<
+!>> Publish to staging
 
 In GitHub Desktop 'Publish branch' then 'Create Pull Request'
 
