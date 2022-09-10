@@ -7,6 +7,10 @@
 * Product Type: Bleach based alkaline/basic toilet bowl cleaner
 * Template: Corrosive basice inorganic liquid, chlorine containing, concentrated
 
+* What's Different: May form toxic fumes if mixed with ammonia or ammonia-based cleaners
+*                   Rinse longer if you get it on skin compared to acid or less corrosive chemicals 
+*                   Seek medical attention if you get it in your eyes
+
 ## Eye exposure
 
 * Hazard: High
