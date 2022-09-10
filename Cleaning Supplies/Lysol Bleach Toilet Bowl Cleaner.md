@@ -2,8 +2,10 @@
 
 ## General Info
 
+* Main Hazards: Corrosive base, Chlorine (bleach)
+* Avoid: May form toxic gases when mixed with ammonia or other ammonia-based cleaners
 * Product Type: Bleach based alkaline/basic toilet bowl cleaner
-* Template: Corrosive basice inorganic liquid chlorine containing concentrated
+* Template: Corrosive basice inorganic liquid, chlorine containing, concentrated
 
 ## Eye exposure
 
