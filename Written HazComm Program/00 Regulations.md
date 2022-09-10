@@ -1,7 +1,9 @@
 # this is the page title
 ## first heading
 **asterisks make it bold**
-_ makes underlined _
+
+_makes underlined_
+
 ## second heading
 
 blank line before bullets
