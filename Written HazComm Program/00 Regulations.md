@@ -1,0 +1,10 @@
+# this is the page title
+## first heading
+**asterisks make it bold**
+_ makes underlined _
+## second heading
+
+blank line before bullets
+
+* this will be the first bullet no asterisk at end
+* this will be the second bullet
