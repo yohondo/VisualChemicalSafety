@@ -6,7 +6,7 @@
 * What You Need To Know: Protect yourself from unnecessary contact: avoid getting on skin, in eyes, avoid inhaling fumes
 *                        Wash hands before eating, drinking, using restroom to avoid ingestion
 * Product Type: No hazardous ingredients, no detailed information on Safety Data Sheet
-* Template: General use, no hazards claimed by manufacturer
+* Template: General use, manufacturer claims there are no hazards
 
 * What's Different: Manufacturer claims no hazards and no regulated hazardous constituents
 *                   Not enough information to evaluate whether this is tru
