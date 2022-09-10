@@ -1,5 +1,10 @@
 # Lysol Bleach Toilet Bowl Cleaner
 
+## General Info
+
+* Product Type: Bleach based alkaline/basic toilet bowl cleaner
+* Template: Corrosive basice inorganic liquid chlorine containing concentrated
+
 ## Eye exposure
 
 * Hazard: High
@@ -9,15 +14,16 @@
 
 ## Breathing Inhalation
 
-* Hazard: Medium 
+* Hazard: Low-medium; sensitive individuals may have reaction
 * Likelihood: High
-* Protection: Have good ventilation, possibly with mechanical assistance (fan)
+* Protection: Avoid breathing fumes when using product (have bathroom door open for better ventilation, turn head away)
 
 ## Skin Contact
 
 * Hazard: Corrosive
 * Likelihood: Medium
 * Protection: Nitrile Gloves - located in cleaning crib
+* First aid: Rinse 15 minutes. Continue rinsing after no symptoms; skin damage continues in absence of symptoms
 
 ## Eat/drink (ingestion)
 
