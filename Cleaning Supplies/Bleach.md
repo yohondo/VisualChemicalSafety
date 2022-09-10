@@ -2,10 +2,10 @@
 
 ## Eye exposure
 
-* Hazard: Medium
-* Likelihood: Low
-* Protection: Safety glasses with side shields
-* Response: Eyewash located in basement
+* Hazard: High
+* Likelihood: Medium
+* Protection: Face shield
+* Response: Eyewash located in basement; seek medical attention immediately
 
 ## Breathing Inhalation
 
