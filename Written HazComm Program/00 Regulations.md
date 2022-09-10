@@ -1,12 +1,7 @@
-# this is the page title
-## first heading
-**asterisks make it bold**
+# OSHA 1910.1200 Hazard Commuunication Program
 
-_makes underlined_
+## [OSHA.gov 1910.1200 website page]([https://www.example.com](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200))
 
-## second heading
+## General Info
 
-blank line before bullets
-
-* this will be the first bullet no asterisk at end
-* this will be the second bullet
+* 
