@@ -7,16 +7,16 @@ Version 1.0 Effective date: Sept 10,2022
 * Anything special to report:_______________________________________________________________________
 
 ## New Since Last
-* ___ Two more kinds of dry kibble for the kitties
+* ___ Two more kinds of dry kibble for the kitties, Farmina Pumpkin (darker round kibble), Science (yellow)
 * ___ Two kinds of canned pate/minced wet kitty food for Min, frozen, but if others are around they get some too 
-* ___ Junior gets 3 scoops of the Senior beet pulp feed (in 2 containers, they won't all fit it one)
+* ___ Junior gets 3 scoops of the Senior beet pulp feed (in 2 containers, they won't all fit it one) instead of 2
 
 ## Pre-Start Safety
 
 * ___ Have your phone on your person and with enough charge to get through the shift
 
 * ___ Text when you start
-* ___ Text when you leave
+* ___ Take a picture of this completed checklist and text it when you leave
 
 * ___ Buddy: Set a timer for 30 minutes from Start; reach out if no Out text at 30 minutes
 
@@ -54,13 +54,15 @@ Version 1.0 Effective date: Sept 10,2022
 * 
 ## Check round bales
 
-* ___ Check the south round bale
+* ___ Check the south round bale, rearrange/tighten as . What was needed: 
 * ___ Check the north round bale
 * 
 ## Prepare next feed, feed Paints wet alfalfa cubes
 
 * ___ Prepare the next feed before feeding Paints wet alfalfa cubes, that gives them time to eat their pellets
-* ___ Feed Toby the top (drier) of the wet alfalfa cubes, he gets fed them first again, same bucket
+*     ___ Paints for morning when Heiro is fed: full 4oz plastic measure
+*     ___ Paints for evening when no Heiro: full 2oz plastic measure
+* ___ Feed Toby the top (drier) of the wet alfalfa cubes, he gets his first, before Kona, same bucket as his pellets
 * ___ Pour the rest of the alfalfa cubes in Kona's bucket including the water
 
 * ___ Go back into the ob room and prep the next feed of alfalfa cubes
@@ -68,5 +70,6 @@ Version 1.0 Effective date: Sept 10,2022
 ## Cleanup
 
 * ___ Pick Junior's aisle into blue tub
-* ___ Pick main part north aisle into blue tub; pick around door into blue muck bucket
+* ___ Pick main part north aisle into blue tub; pick around door into blue muck bucket inside arena
 * ___ Pick arena into tractor bucket
+* ___ Clean kitty litter boxes
