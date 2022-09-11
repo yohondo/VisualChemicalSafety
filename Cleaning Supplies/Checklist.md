@@ -1,6 +1,6 @@
 # Checklist Chores Version 1.0 
 Effective date: Sept 10,2022 
-Date__________ By_______
+# Date__________ By_______
 
 ## Summary
 
