@@ -1,6 +1,6 @@
-# Checklist Chores Version 1.0 
-Effective date: Sept 10,2022 
-# Date__________ By_______
+# Checklist Blue Gates Horse Chores 
+Version 1.0 Effective date: Sept 10,2022 
+# Date__________ Start Time:_________ By______________
 
 ## Summary
 
