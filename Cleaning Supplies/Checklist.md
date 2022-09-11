@@ -50,6 +50,11 @@
 * ___ Feed Toby first in black feed tub closest to Junior's gate
 * ___ Feed Kona next in black feed tub further away and closer to the north side of the arena
 * 
+## Check round bales
+
+* ___ Check the south round bale
+* ___ Check the north round bale
+* 
 ## Prepare next feed, feed Paints wet alfalfa cubes
 
 * ___ Prepare the next feed before feeding Paints wet alfalfa cubes, that gives them time to eat their pellets
@@ -58,3 +63,8 @@
 
 * ___ Go back into the ob room and prep the next feed of alfalfa cubes
 * 
+## Cleanup
+
+* ___ Pick Junior's aisle into blue tub
+* ___ Pick main part north aisle into blue tub; pick around door into blue muck bucket
+* ___ Pick arena into tractor bucket
