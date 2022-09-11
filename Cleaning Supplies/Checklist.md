@@ -4,13 +4,11 @@
 
 * Anything special to report:_______________________________________________________________________
 * 
-* Avoid: May form toxic gases when mixed with ammonia or other ammonia-based cleaners
-* Product Type: Bleach based alkaline/basic toilet bowl cleaner
-* Template: Corrosive basice inorganic liquid, chlorine containing, concentrated
+## New Since Last
 
-* What's Different: May form toxic fumes if mixed with ammonia or ammonia-based cleaners
-*                   Rinse longer if you get it on skin compared to acid or less corrosive chemicals 
-*                   Seek medical attention if you get it in your eyes
+* ___ Two more kinds of dry kibble for the kitties
+* ___ Two kinds of canned pate/minced wet kitty food for Min, frozen, but if others are around they get some too 
+* ___ Junior gets 3 scoops of the Senior beet pulp feed (in 2 containers, they won't all fit it one)
 
 ## Pre-Start Safety
 
