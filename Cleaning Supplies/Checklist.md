@@ -3,9 +3,8 @@
 ## Summary
 
 * Anything special to report:_______________________________________________________________________
-* 
-## New Since Last
 
+## New Since Last
 * ___ Two more kinds of dry kibble for the kitties
 * ___ Two kinds of canned pate/minced wet kitty food for Min, frozen, but if others are around they get some too 
 * ___ Junior gets 3 scoops of the Senior beet pulp feed (in 2 containers, they won't all fit it one)
@@ -22,8 +21,10 @@
 
 ## Start in the cottage: Get Jr's food and feed kitties
 
-* ___ Start with pate for Min since it takes her the longest; 10 seconds in microwave to thaw; feed on glass table in back room; 
-* ___ Dry food to outside kitties. 1 bowl up on lean-to, 1 on raised platform end of porch, 1 on porch floor
+* ___ Start with pate for Min since it takes her the longest; 
+*     ___ 10 seconds in microwave to thaw; feed on glass table in back room; 
+* ___ Dry food to outside kitties. 
+*     ___ 1 bowl up on lean-to, 1 on raised platform end of porch, 1 on porch floor
 
 * ___ Get Junior's food out of the fridge
 
