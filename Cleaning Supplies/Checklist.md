@@ -12,8 +12,7 @@
 ## Pre-Start Safety
 
 * ___ Have your phone on your person and with enough charge to get through the shift
-* ___ Check water in stock tank and Junior's green muck bucket, start topping off if needed
-* 
+
 * ___ Text when you start
 * ___ Text when you leave
 
@@ -31,6 +30,7 @@
 ## Observation Room: Feed Junior, Paints, top off ob room kitty food
 
 * ___ Check ob room kitty food, top off if needed
+* ___ Check water in stock tank and Junior's green muck bucket, start topping off if needed
 * 
 * ___ Morning: Add Heiro to Junior's large beet pulp container, 3/4 scoop, stir in 
 * ___ Morning: Add Heiro to both Paint's pellets 3/4 scoop; add water to paints and stir
